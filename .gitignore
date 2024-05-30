@@ -1,0 +1,6 @@
+*.pth
+*.pt
+*.onnx
+*.trt
+*.engine
+*.plan
